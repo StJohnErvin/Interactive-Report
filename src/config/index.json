@@ -1,0 +1,152 @@
+{
+  "company": {
+    "name": "Interactive Report Web App",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Content",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Statistic",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Interactive",
+    "subtitle": "Reporting Web App.",
+    "description": "Place Holder Title description Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": ""    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": ""
+    }
+  },
+  "product": {
+    "title": "Interactive Report Web App",
+    "items": [
+      {
+        "title": "Place Holder Title",
+        "description": "Place Holder Title description Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Place Holder Title",
+        "description": "Place Holder Title description Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "News and Reports here ",
+    "subtitle": "Place Holder Title",
+    "description": "Place Holder Title description Lorem ipsum dolor sit amet,Place Holder Title description Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Place Holder Title description Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis, ",
+    "items": [
+      {
+        "name": "Place Holder",
+        "description": "Place Holder Title description Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Place Holder",
+        "description": "Place Holder Title description Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Place Holder",
+        "description": "Place Holder Title description Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Place Holder",
+        "description": "Place Holder Title description Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. felis,",
+        "icon": "/assets/images/react.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Statistics",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "",
+      "twitter": "",
+      "linkedin": ""
+    }
+  }
+}
