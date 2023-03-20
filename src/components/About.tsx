@@ -3,7 +3,7 @@ import React from 'react';
 import config from '../config/index.json';
 
 const About = () => {
-  const { about } = config;
+  const {  about } = config;
   // const { logo, name: companyName } = company;
   const { socialMedia, sections } = about;
 
@@ -78,7 +78,7 @@ const About = () => {
           </a>
         </div>
         <div className="flex items-center mt-6">
-         Footer Here
+        <p>Footer Here</p> 
         </div>
       </div>
     </div>
