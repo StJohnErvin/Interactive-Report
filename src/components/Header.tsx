@@ -62,7 +62,6 @@ const Menu = () => {
             </div>
           </nav>
         </div>
-
         <Transition
           as={Fragment}
           enter="duration-150 ease-out"

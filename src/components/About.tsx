@@ -78,7 +78,6 @@ const About = () => {
           </a>
         </div>
         <div className="flex items-center mt-6">
-        <p>Footer Here</p> 
         </div>
       </div>
     </div>
